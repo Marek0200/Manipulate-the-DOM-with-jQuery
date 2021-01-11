@@ -1,0 +1,7 @@
+h1{color: red;
+}
+h2, h3{color: purple;
+}
+ol{list-style-type: upper-roman; text-decoration: underline;
+}
+.pink{color: #E75480; text-decoration: underline #E75480}
